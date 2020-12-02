@@ -1,0 +1,16 @@
+https://www.willandskill.se/en/real-time-notifications-with-firebase-django-and-backbone-part-1/
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjO87OY5a7tAhVyRRUIHaq9DbQQFjAXegQIHxAC&url=https%3A%2F%2Fmonadical.com%2Fposts%2Ffrom-firebase-to-django.html&usg=AOvVaw3DcEs_exeM0gMoR7iPjUJo
+https://github.com/eamigo86/graphene-django-extras
+https://github.com/eamigo86/graphene-django-subscriptions
+https://github.com/datadvance/DjangoChannelsGraphqlWs
+https://github.com/tOgg1/graphene-django-cud
+https://github.com/python-social-auth/social-app-django
+https://github.com/redzej/graphene-permissions
+https://github.com/flavors/django-graphql-persist
+https://github.com/Moesif/moesif-graphene-django-example
+https://github.com/GraphQL-python-archive/graphql-django-view
+https://console.firebase.google.com/
+https://github.com/thisbejim/Pyrebase
+https://www.techiediaries.com/django/django-3-authentication-with-login-logout-and-password-reset-views/
+https://www.techiediaries.com/customize-django-admin/
+https://www.techiediaries.com/django-graphql-tutorial/
