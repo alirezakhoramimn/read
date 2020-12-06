@@ -1,3 +1,4 @@
+https://djangobook.com/mdj2-advanced-models/
 https://www.willandskill.se/en/real-time-notifications-with-firebase-django-and-backbone-part-1/
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjO87OY5a7tAhVyRRUIHaq9DbQQFjAXegQIHxAC&url=https%3A%2F%2Fmonadical.com%2Fposts%2Ffrom-firebase-to-django.html&usg=AOvVaw3DcEs_exeM0gMoR7iPjUJo
 https://github.com/eamigo86/graphene-django-extras
