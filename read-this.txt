@@ -15,3 +15,7 @@ https://github.com/thisbejim/Pyrebase
 https://www.techiediaries.com/django/django-3-authentication-with-login-logout-and-password-reset-views/
 https://www.techiediaries.com/customize-django-admin/
 https://www.techiediaries.com/django-graphql-tutorial/
+##### Furniture 
+https://www.kaggle.com/akkithetechie/furniture-detector
+https://app.nanonets.com/documentation#section/Authentication
+
